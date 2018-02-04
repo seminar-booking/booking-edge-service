@@ -10,7 +10,7 @@ spring:
 
 eureka:
   instance:
-    hostname: edge-service.herokuapp.com
+    hostname: localhost
   client:
     fetch-registry: true
     register-with-eureka: true
