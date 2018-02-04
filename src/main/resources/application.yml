@@ -10,7 +10,7 @@ spring:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: 35.194.108.173
   client:
     fetch-registry: true
     register-with-eureka: true
